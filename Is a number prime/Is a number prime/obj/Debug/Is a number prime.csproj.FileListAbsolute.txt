@@ -1,0 +1,6 @@
+c:\users\vg140\documents\visual studio 2012\Projects\Is a number prime\Is a number prime\bin\Debug\Is a number prime.exe.config
+c:\users\vg140\documents\visual studio 2012\Projects\Is a number prime\Is a number prime\obj\Debug\Is a number prime.csprojResolveAssemblyReference.cache
+c:\users\vg140\documents\visual studio 2012\Projects\Is a number prime\Is a number prime\bin\Debug\Is a number prime.exe
+c:\users\vg140\documents\visual studio 2012\Projects\Is a number prime\Is a number prime\bin\Debug\Is a number prime.pdb
+c:\users\vg140\documents\visual studio 2012\Projects\Is a number prime\Is a number prime\obj\Debug\Is a number prime.exe
+c:\users\vg140\documents\visual studio 2012\Projects\Is a number prime\Is a number prime\obj\Debug\Is a number prime.pdb

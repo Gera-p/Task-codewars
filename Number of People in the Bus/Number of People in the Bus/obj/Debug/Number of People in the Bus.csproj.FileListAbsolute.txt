@@ -1,0 +1,6 @@
+c:\users\vg140\documents\visual studio 2012\Projects\Number of People in the Bus\Number of People in the Bus\bin\Debug\Number of People in the Bus.exe.config
+c:\users\vg140\documents\visual studio 2012\Projects\Number of People in the Bus\Number of People in the Bus\obj\Debug\Number of People in the Bus.csprojResolveAssemblyReference.cache
+c:\users\vg140\documents\visual studio 2012\Projects\Number of People in the Bus\Number of People in the Bus\bin\Debug\Number of People in the Bus.exe
+c:\users\vg140\documents\visual studio 2012\Projects\Number of People in the Bus\Number of People in the Bus\bin\Debug\Number of People in the Bus.pdb
+c:\users\vg140\documents\visual studio 2012\Projects\Number of People in the Bus\Number of People in the Bus\obj\Debug\Number of People in the Bus.exe
+c:\users\vg140\documents\visual studio 2012\Projects\Number of People in the Bus\Number of People in the Bus\obj\Debug\Number of People in the Bus.pdb

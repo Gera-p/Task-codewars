@@ -1,0 +1,5 @@
+C:\Users\vniir3435\Documents\Visual Studio 2008\Projects\Multiples of 3 or 5\Multiples of 3 or 5\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vniir3435\Documents\Visual Studio 2008\Projects\Multiples of 3 or 5\Multiples of 3 or 5\bin\Debug\Multiples of 3 or 5.exe
+C:\Users\vniir3435\Documents\Visual Studio 2008\Projects\Multiples of 3 or 5\Multiples of 3 or 5\bin\Debug\Multiples of 3 or 5.pdb
+C:\Users\vniir3435\Documents\Visual Studio 2008\Projects\Multiples of 3 or 5\Multiples of 3 or 5\obj\Debug\Multiples of 3 or 5.exe
+C:\Users\vniir3435\Documents\Visual Studio 2008\Projects\Multiples of 3 or 5\Multiples of 3 or 5\obj\Debug\Multiples of 3 or 5.pdb
