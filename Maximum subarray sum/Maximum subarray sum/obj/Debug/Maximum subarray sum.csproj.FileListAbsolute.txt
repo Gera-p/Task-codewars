@@ -1,0 +1,5 @@
+C:\Users\vniir3435\Documents\Visual Studio 2008\Projects\Maximum subarray sum\Maximum subarray sum\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vniir3435\Documents\Visual Studio 2008\Projects\Maximum subarray sum\Maximum subarray sum\bin\Debug\Maximum subarray sum.exe
+C:\Users\vniir3435\Documents\Visual Studio 2008\Projects\Maximum subarray sum\Maximum subarray sum\bin\Debug\Maximum subarray sum.pdb
+C:\Users\vniir3435\Documents\Visual Studio 2008\Projects\Maximum subarray sum\Maximum subarray sum\obj\Debug\Maximum subarray sum.exe
+C:\Users\vniir3435\Documents\Visual Studio 2008\Projects\Maximum subarray sum\Maximum subarray sum\obj\Debug\Maximum subarray sum.pdb
